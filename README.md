@@ -25,7 +25,8 @@ Developed a full-stack stock analytics platform featuring a modern animated UI w
      │   └── CSV files (INFY.csv, TCS.csv)
      │
      └── README.md
-
+## Video Link
+   {https://drive.google.com/file/d/1ELRvvE0Z4Vs1Z_VVx9vij86epVr1SGfn/view?usp=drive_link}
 ## 🛠️ Backend API Documentation
 ### ✔ GET /api/companies 
     Returns all company names.
