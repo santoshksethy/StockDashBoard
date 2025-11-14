@@ -10,24 +10,24 @@ Developed a full-stack stock analytics platform featuring a modern animated UI w
  ->Searchable Sidebar
 
  ## 📂 Project Structure
-StockDashboard/
-│
-├── src/main/java/com/example/stockdashboard/
-│   ├── controller/
-│   ├── service/
-│   ├── model/
-│   ├── repository/
-│   └── config/
-│
-├── src/main/resources/
-│   ├── static/index.html
-│   ├── application.properties
-│   ├── application-prod.properties
-│   └── CSV files (INFY.csv, TCS.csv)
-│
-├── Dockerfile
-├── docker-compose.yml
-└── README.md
+     StockDashboard/
+     │
+     ├── src/main/java/com/example/stockdashboard/
+     │   ├── controller/
+     │   ├── service/
+     │   ├── model/
+     │   ├── repository/
+     │   └── config/
+     │
+     ├── src/main/resources/
+     │   ├── static/index.html
+     │   ├── application.properties
+     │   ├── application-prod.properties
+     │   └── CSV files (INFY.csv, TCS.csv)
+     │
+     ├── Dockerfile
+     ├── docker-compose.yml
+     └── README.md
 
 ## 🛠️ Backend API Documentation
 ### ✔ GET /api/companies 
